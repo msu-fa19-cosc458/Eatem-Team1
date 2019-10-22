@@ -1,2 +1,1 @@
-# Eatem-Team1 # Eatem-Team1
-# Eatem-Team1
+# README.md file for >Practice Syncing in Git< homework assignment
